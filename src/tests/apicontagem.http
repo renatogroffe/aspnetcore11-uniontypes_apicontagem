@@ -1,0 +1,14 @@
+GET http://localhost:5164/contador
+
+###
+
+GET http://localhost:5164/robots.txt
+
+###
+
+http://localhost:5164/favicon.ico
+
+###
+
+http://localhost:5164/favicon.ico
+
